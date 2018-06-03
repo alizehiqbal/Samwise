@@ -1,6 +1,6 @@
 # SAMWISE
 
-Samwise is an app that enables individuals with chronic illnesses to connect with patients like them, with similar conditions. Users can use the platform to ask questions and answer others' questions, engaging in a support network intended to make the journey through chronic illness a little more bearable. Patients are often the best experts of their diseases, and Samwise hopes someday to provide qualitative and quantitative data and information to providers in order to enhance quality and accuracy of care.  
+Samwise is an app that enables individuals with chronic illnesses to connect with patients like them, with similar conditions. Users can use the platform to ask questions and answer others' questions, engaging in a support network intended to make the journey through chronic illness a little more bearable. Patients are often the best experts of their diseases, and Samwise hopes someday, in the extended future, to provide qualitative and quantitative data and information to providers in order to enhance quality and accuracy of care.  
 
 ## Background and Overview 
 
@@ -45,21 +45,18 @@ Users can:
   - [ ] questions/interests of that user
   - [ ] contributions (user get a star every time they post) - works like Github green squares
 
-6. Deploy to App Store
-  - [ ] Apple App Store
-  - [ ] Google Play Store
   
-7.  Demo Page
+6.  Demo Page
   - [ ] has gif showing what the app does
   - [ ] has download link or QR code
   
-8. Search
+7. Search
   - [ ] Users can search for groups with previously asked questions similar to their own.
 
-9. Private Messaging
+8. Private Messaging
   - [ ] Users can directly message other patient peers.
 
-10. Gratitude
+9. Gratitude
   - [ ] Similar to a "like", users can click on an icon to say "thank you." 
   - [ ] Responses to questions/posts will be ordered such that those with the highest "gratitude score" appear first.
   
